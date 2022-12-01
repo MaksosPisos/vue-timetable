@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c}from"./index.bed4c6b3.js";const o={},r={class:"flex items-center justify-center"};function s(n,_){return c(),t("div",r," About ")}var f=e(o,[["render",s]]);export{f as default};
